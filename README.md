@@ -44,4 +44,3 @@ Let's dicover the data which are composed of :
 | -------------- | --------------------------------------------------------------------------------- |
 | essay_id_comp  | The unique ID of the essay                                                        |
 | score          | The score the essay received out of 6 (the prediction target for the competition) |
-| split          | The train-test split of the essay                                                 |
