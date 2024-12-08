@@ -6,7 +6,7 @@ The goal is to analyze key and mouse stroke patterns and predict an essay score 
 1. I'm interested in keystrokes as biometric verification & for verification of academic integrity, and this is a good way to familizarize myself with methods to analyze this kind of data
 2. I would like to work on prediction projects where I must generate features myself from raw data
 
-The jupyter notebook contains sections of code organized into exploratory data analysis, rudimentary prediction, and a final pipeline that uses various machine learning models, followed by a concluding analysis of prediction accuracy from each of the methods. A pdf report will be uploaded from overleaf at the project's conclusion.
+The jupyter notebook contains sections of code organized into exploratory data analysis, rudimentary prediction, and a final pipeline that uses various machine learning models, followed by a concluding analysis of prediction accuracy from each of the methods. The pdf keystroke_prediction.pdf provides further analysis and explanation of the project.
 
 ## Data dictionary 
 
